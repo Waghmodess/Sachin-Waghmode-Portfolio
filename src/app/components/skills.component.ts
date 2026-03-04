@@ -1,7 +1,6 @@
 import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { ScrollAnimationDirective } from '../directives/scroll-animation.directive';
-import { TypingEffectDirective } from '../directives/typing-effect.directive';
 
 interface SkillCategory {
   category: string;

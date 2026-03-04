@@ -32,4 +32,4 @@ import { ScrollAnimationDirective } from '../directives/scroll-animation.directi
     </section>
   `,
 })
-export class EducationComponent {}
+export class EducationComponent { }
