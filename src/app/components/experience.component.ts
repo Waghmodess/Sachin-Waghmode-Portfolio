@@ -62,7 +62,7 @@ export class ExperienceComponent {
     },
     {
       title: 'Software Developer',
-      company: 'National Stock Exchange IT',
+      company: 'ClariTech Solutions LLP, Pune',
       period: 'July 2022 – July 2024',
       description: [ 'Developed a dynamic e-commerce administration interface using Angular 12 for managing website text, images, and videos.', 
         'Integrated Angular frontend with Node.js REST APIs, AWS S3, and MongoDB for content and media management workflows.', 
